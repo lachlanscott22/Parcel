@@ -9,17 +9,16 @@ This repository holds the **download files for Parcel**. The source code is not 
 Get the latest version for your system from the
 [**Releases** page](../../releases/latest).
 
-| System | File |
-| --- | --- |
-| Windows | `Parcel-windows-amd64.zip` |
-| macOS (Apple silicon) | `Parcel-macos-arm64.zip` |
-| macOS (Intel) | `Parcel-macos-amd64.zip` |
-| Linux | `Parcel-linux-amd64.zip` |
+| System | File | Status |
+| --- | --- | --- |
+| Windows (64-bit) | `Parcel-windows-amd64.zip` | Available (early build) |
+| macOS | not available yet | Coming |
+| Linux | not available yet | Coming |
 
-Unzip it and run Parcel. Early builds are **not code-signed yet**, so Windows may show a
-SmartScreen warning ("More info", then "Run anyway") and macOS may require you to
-right-click the app and choose Open the first time. Linux needs GTK 4 and WebKitGTK 6
-installed (`libgtk-4-1`, `libwebkitgtk-6.0-4`).
+Unzip it and run `Parcel.exe`. Early builds are **not code-signed yet**, so Windows may
+show a SmartScreen warning ("More info", then "Run anyway"). Both people need Parcel
+to transfer files. Check your download against `SHA256SUMS.txt` on the release page if you
+want to verify it.
 
 ## How it works
 
