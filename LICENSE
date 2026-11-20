@@ -1,0 +1,26 @@
+Parcel
+Copyright (c) 2026 Lachlan Scott (LS Media). All rights reserved.
+
+This software, including its source code, is proprietary and confidential. It is
+not open source.
+
+Permission is granted to the person who downloaded an official copy of Parcel
+from its owner to install and use that copy for personal or internal business
+use. Except as expressly permitted in this notice or required by applicable law,
+you may not copy, modify, redistribute, sublicense, sell, rent, or reverse
+engineer Parcel or any part of it, or create derivative works from it.
+
+Parcel is built on tailcat (https://github.com/tailscale/tailcat), (c) Tailscale Inc.
+and contributors, BSD-3-Clause, and would not exist without it.
+
+Parcel includes third-party components that are licensed separately under their
+own terms. Those licences and notices are listed in THIRD_PARTY_LICENSES and
+continue to apply to those components.
+
+PARCEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE USE OF, OR INABILITY TO USE, PARCEL.
+
+"Parcel" and the Parcel logo are marks of their owner. Parcel is not affiliated
+with or endorsed by Tailscale Inc.
